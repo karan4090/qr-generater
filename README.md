@@ -1,1 +1,1 @@
-# qr-generater
+QR Generator is a simple and user-friendly tool that allows users to create QR codes quickly and efficiently. This project supports the generation of QR codes for various types of content such as URLs, plain text, contact information, and more. The tool is built to provide a straightforward experience, making QR code creation accessible to everyone.
